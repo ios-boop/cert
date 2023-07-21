@@ -1,0 +1,43 @@
+<?xml version=1.0 encoding=UTF-8?>
+<!DOCTYPE plist PUBLIC -//Apple//DTD PLIST 1.0//EN http://www.apple.com/DTDs/PropertyList-1.0.dtd …>
+<plist version=1.0>
+<dict>
+        <key>items</key>
+        <array>
+                <dict>
+                        <key>assets</key>
+                        <array>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>software-package</string>
+                                        <key>url</key>
+                                        <string>https://download1652.mediafire.com/z27k21yijmsgUKVLMS10duPXGVqlx14kaI_wVBOITZDRMeogBMdIst_yU_Jo9ST3buEMKLCzCRs0WXKZ1SACYGqIZzP_GQrRCWbYru_h_Vc6zFKFBG3cyrqlP5q5ZigFjYMTpSUohBZsEE-kVgNAJgWFUmpiiLjxKpHnxe6RkGQbfV8/qwxqv72kc6ioaof/Scarlet.ipa</string>
+                                </dict>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>display-image</string>
+                                        <key>url</key>
+                                        <string>https://raw.githubusercontent.com/ios-boop/cert/main/SCARLET/IMG_1689.png</string>
+                                </dict>
+                                <dict>
+                                        <key>kind</key>
+                                        <string>full-size-image</string>
+                                        <key>url</key>
+                                        <string>https://raw.githubusercontent.com/ios-boop/cert/main/SCARLET/IMG_1689.png</string>
+                                </dict>
+                        </array>
+                        <key>metadata</key>
+                        <dict>
+                                <key>bundle-identifier</key>
+                                <string>com.DebianArch.ScarletPersonalXYZZZZ</string>
+                                <key>bundle-version</key>
+                                <string></string>
+                                <key>kind</key>
+                                <string>software</string>
+                                <key>title</key>
+                                <string>Scarlet</string>
+                        </dict>
+                </dict>
+        </array>
+</dict>
+</plist>
